@@ -113,3 +113,7 @@ Then update `backend/mcp/github.js` to use `StdioClientTransport` and connect to
 | `GROQ_API_KEY` | Groq API key (free at console.groq.com) |
 | `GITHUB_TOKEN` | GitHub Fine-grained token with PR read/write access |
 | `PORT` | Backend port (default: 3001) |
+
+## Preview
+
+![CodeLens UI](./screenshot.png)
