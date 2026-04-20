@@ -4,11 +4,11 @@ An AI-powered code review tool that uses **LLaMA 4 via Groq** (multimodal) to re
 
 ## Features
 
-- **Multimodal input** — paste code, upload a code file, or drop a UI screenshot
-- **Streaming review** — results stream in real-time via SSE as LLaMA processes
-- **Structured output** — issues categorised by type (bug, security, performance, UX, etc.) and severity
-- **GitHub MCP integration** — post the formatted review as a PR comment in one click
-- **Monaco editor** — full VS Code-style code editor in the browser
+- **Multimodal input** - paste code, upload a code file, or drop a UI screenshot
+- **Streaming review** - results stream in real-time via SSE as LLaMA processes
+- **Structured output** - issues categorised by type (bug, security, performance, UX, etc.) and severity
+- **GitHub MCP integration** - post the formatted review as a PR comment in one click
+- **Monaco editor** - full VS Code-style code editor in the browser
 
 ## Tech Stack
 
