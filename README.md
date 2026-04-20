@@ -1,4 +1,4 @@
-# CodeLens — Multimodal AI Code Review Tool
+# CodeLens - Multimodal AI Code Review Tool
 
 An AI-powered code review tool that uses **LLaMA 4 via Groq** (multimodal) to review code and UI screenshots, then posts findings directly to GitHub PRs via an **MCP-style GitHub integration**.
 
